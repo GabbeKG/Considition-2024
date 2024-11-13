@@ -1,0 +1,13 @@
+{
+  "name": "jsstarterkit",
+  
+  "version": "1.0.0",
+  "description": "javascript starterkit for considition 2024",
+  "main": "starterkit.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node starterkit.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
