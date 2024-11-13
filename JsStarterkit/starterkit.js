@@ -2,7 +2,7 @@ const https = require("https");
 var fs = require("fs");
 
 const gameUrl = "api.considition.com";
-const apiKey = "a0d3d257-6d14-4780-a611-9265f1461d23"; // API-key is sent in mail inbox
+const apiKey = ""; // API-key is sent in mail inbox
 /*
 const mapFile = "Map-Nottingham.json"; // Change map here
 const personalityFile = "personalities.nottingham.json";
